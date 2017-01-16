@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: e6d1314ec95135c4b8752414914f7bf7
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: zhugandao028
+    100002: zhugandao027
+    100004: tree127
+    100006: Object7063
+    100008: Object7064
+    100010: tree122
+    100012: tree121
+    100014: Camera001
+    100016: tree129
+    100018: Birth 01
+    100020: tree128
+    100022: //RootNode
+    100024: Object7065
+    100026: zhugandao030
+    100028: Group001
+    100030: Object7048
+    100032: tree124
+    100034: Object7043
+    100036: Particle View 07
+    100038: zhugandao26
+    100040: Event 04
+    100042: Birth 02
+    100044: Speed 03
+    100046: Sky001
+    100048: Camera003.Target
+    100050: Object7046
+    100052: Object7047
+    100054: Object7051
+    100056: Object7052
+    100058: Display 01
+    100060: Display 03
+    100062: Particle View 21
+    100064: Speed 01
+    100066: Spot001
+    100068: Shape 01
+    100070: Camera003
+    100072: ludeng004
+    100074: Object7050
+    100076: Display 02
+    100078: Event 05
+    100080: Event 06
+    100082: Display 06
+    100084: gelidai
+    100086: tree10
+    100088: Particle View 002
+    100090: Object7053
+    100092: Object7035
+    100094: Object7044
+    100096: Object7045
+    100098: Object7058
+    100100: Object7049
+    100102: Omni005
+    100104: Rotation 03
+    100106: Shape 03
+    100108: Render 03
+    100110: Display 05
+    100112: Camera002.Target
+    100114: Render 02
+    100116: tree123
+    100118: tree125
+    100120: Rotation 01
+    100122: Camera004.Target
+    100124: Object7057
+    100126: Object7056
+    100128: tree39
+    100130: Omni004
+    100132: Event 02
+    100134: Spot001.Target
+    100136: Object7066
+    100138: zhugandao21
+    100140: Event 01
+    100142: Display 04
+    100144: Omni003
+    100146: Render 01
+    100148: Particle View 14
+    100150: Object7054
+    100152: ludeng005
+    100154: Object7061
+    100156: Particle View 002 1
+    100158: Camera001.Target
+    100160: tree126
+    100162: Birth 03
+    100164: Object7042
+    100166: Object7060
+    100168: Particle View 003
+    100170: Rotation 02
+    100172: Position Icon 01
+    100174: Camera004
+    100176: ludeng02
+    100178: Camera002
+    100180: Omni002
+    100182: Particle View 001
+    100184: Shape 02
+    100186: Object7055
+    100188: ludeng003
+    100190: Position Icon 03
+    100192: Position Icon 02
+    100194: Omni001
+    100196: Speed 02
+    100198: zhugandao029
+    100200: tree120
+    100202: Object7040
+    100204: Object7041
+    100206: Event 03
+    100208: tree119
+    100210: Object7038
+    100212: Object7039
+    100214: Object7037
+    100216: Object7036
+    400000: zhugandao028
+    400002: zhugandao027
+    400004: tree127
+    400006: Object7063
+    400008: Object7064
+    400010: tree122
+    400012: tree121
+    400014: Camera001
+    400016: tree129
+    400018: Birth 01
+    400020: tree128
+    400022: //RootNode
+    400024: Object7065
+    400026: zhugandao030
+    400028: Group001
+    400030: Object7048
+    400032: tree124
+    400034: Object7043
+    400036: Particle View 07
+    400038: zhugandao26
+    400040: Event 04
+    400042: Birth 02
+    400044: Speed 03
+    400046: Sky001
+    400048: Camera003.Target
+    400050: Object7046
+    400052: Object7047
+    400054: Object7051
+    400056: Object7052
+    400058: Display 01
+    400060: Display 03
+    400062: Particle View 21
+    400064: Speed 01
+    400066: Spot001
+    400068: Shape 01
+    400070: Camera003
+    400072: ludeng004
+    400074: Object7050
+    400076: Display 02
+    400078: Event 05
+    400080: Event 06
+    400082: Display 06
+    400084: gelidai
+    400086: tree10
+    400088: Particle View 002
+    400090: Object7053
+    400092: Object7035
+    400094: Object7044
+    400096: Object7045
+    400098: Object7058
+    400100: Object7049
+    400102: Omni005
+    400104: Rotation 03
+    400106: Shape 03
+    400108: Render 03
+    400110: Display 05
+    400112: Camera002.Target
+    400114: Render 02
+    400116: tree123
+    400118: tree125
+    400120: Rotation 01
+    400122: Camera004.Target
+    400124: Object7057
+    400126: Object7056
+    400128: tree39
+    400130: Omni004
+    400132: Event 02
+    400134: Spot001.Target
+    400136: Object7066
+    400138: zhugandao21
+    400140: Event 01
+    400142: Display 04
+    400144: Omni003
+    400146: Render 01
+    400148: Particle View 14
+    400150: Object7054
+    400152: ludeng005
+    400154: Object7061
+    400156: Particle View 002 1
+    400158: Camera001.Target
+    400160: tree126
+    400162: Birth 03
+    400164: Object7042
+    400166: Object7060
+    400168: Particle View 003
+    400170: Rotation 02
+    400172: Position Icon 01
+    400174: Camera004
+    400176: ludeng02
+    400178: Camera002
+    400180: Omni002
+    400182: Particle View 001
+    400184: Shape 02
+    400186: Object7055
+    400188: ludeng003
+    400190: Position Icon 03
+    400192: Position Icon 02
+    400194: Omni001
+    400196: Speed 02
+    400198: zhugandao029
+    400200: tree120
+    400202: Object7040
+    400204: Object7041
+    400206: Event 03
+    400208: tree119
+    400210: Object7038
+    400212: Object7039
+    400214: Object7037
+    400216: Object7036
+    2300000: zhugandao028
+    2300002: zhugandao027
+    2300004: tree127
+    2300006: Object7063
+    2300008: Object7064
+    2300010: tree122
+    2300012: tree121
+    2300014: tree129
+    2300016: tree128
+    2300018: Object7065
+    2300020: zhugandao030
+    2300022: Object7048
+    2300024: tree124
+    2300026: Object7043
+    2300028: zhugandao26
+    2300030: Object7046
+    2300032: Object7047
+    2300034: Object7051
+    2300036: Object7052
+    2300038: ludeng004
+    2300040: Object7050
+    2300042: tree10
+    2300044: Object7053
+    2300046: Object7035
+    2300048: Object7044
+    2300050: Object7045
+    2300052: Object7058
+    2300054: Object7049
+    2300056: tree123
+    2300058: tree125
+    2300060: Object7057
+    2300062: Object7056
+    2300064: tree39
+    2300066: Object7066
+    2300068: zhugandao21
+    2300070: Object7054
+    2300072: ludeng005
+    2300074: Object7061
+    2300076: tree126
+    2300078: Object7042
+    2300080: Object7060
+    2300082: ludeng02
+    2300084: Object7055
+    2300086: ludeng003
+    2300088: zhugandao029
+    2300090: tree120
+    2300092: Object7040
+    2300094: Object7041
+    2300096: tree119
+    2300098: Object7038
+    2300100: Object7039
+    2300102: Object7037
+    2300104: Object7036
+    3300000: zhugandao028
+    3300002: zhugandao027
+    3300004: tree127
+    3300006: Object7063
+    3300008: Object7064
+    3300010: tree122
+    3300012: tree121
+    3300014: tree129
+    3300016: tree128
+    3300018: Object7065
+    3300020: zhugandao030
+    3300022: Object7048
+    3300024: tree124
+    3300026: Object7043
+    3300028: zhugandao26
+    3300030: Object7046
+    3300032: Object7047
+    3300034: Object7051
+    3300036: Object7052
+    3300038: ludeng004
+    3300040: Object7050
+    3300042: tree10
+    3300044: Object7053
+    3300046: Object7035
+    3300048: Object7044
+    3300050: Object7045
+    3300052: Object7058
+    3300054: Object7049
+    3300056: tree123
+    3300058: tree125
+    3300060: Object7057
+    3300062: Object7056
+    3300064: tree39
+    3300066: Object7066
+    3300068: zhugandao21
+    3300070: Object7054
+    3300072: ludeng005
+    3300074: Object7061
+    3300076: tree126
+    3300078: Object7042
+    3300080: Object7060
+    3300082: ludeng02
+    3300084: Object7055
+    3300086: ludeng003
+    3300088: zhugandao029
+    3300090: tree120
+    3300092: Object7040
+    3300094: Object7041
+    3300096: tree119
+    3300098: Object7038
+    3300100: Object7039
+    3300102: Object7037
+    3300104: Object7036
+    4300000: tree10
+    4300002: tree39
+    4300004: zhugandao21
+    4300006: zhugandao26
+    4300008: ludeng02
+    4300010: tree119
+    4300012: tree120
+    4300014: Object7035
+    4300016: Object7036
+    4300018: Object7037
+    4300020: Object7038
+    4300022: Object7039
+    4300024: Object7040
+    4300026: Object7041
+    4300028: Object7042
+    4300030: Object7060
+    4300032: Object7061
+    4300034: ludeng005
+    4300036: tree126
+    4300038: tree127
+    4300040: zhugandao029
+    4300042: Object7063
+    4300044: Object7064
+    4300046: Object7065
+    4300048: zhugandao030
+    4300050: tree128
+    4300052: Object7066
+    4300054: tree129
+    4300056: Object7048
+    4300058: Object7057
+    4300060: Object7056
+    4300062: Object7055
+    4300064: ludeng003
+    4300066: Object7054
+    4300068: tree124
+    4300070: Object7043
+    4300072: Object7044
+    4300074: Object7045
+    4300076: Object7046
+    4300078: Object7047
+    4300080: Object7058
+    4300082: Object7049
+    4300084: Object7050
+    4300086: ludeng004
+    4300088: tree125
+    4300090: Object7051
+    4300092: Object7052
+    4300094: Object7053
+    4300096: zhugandao028
+    4300098: tree122
+    4300100: tree121
+    4300102: zhugandao027
+    4300104: tree123
+    6400000: ludeng003
+    6400002: ludeng004
+    6400004: Object7043
+    6400006: Object7044
+    6400008: Object7045
+    6400010: Object7046
+    6400012: Object7047
+    6400014: Object7048
+    6400016: Object7049
+    6400018: Object7050
+    6400020: Object7051
+    6400022: Object7052
+    6400024: Object7053
+    6400026: Object7054
+    6400028: Object7055
+    6400030: Object7056
+    6400032: Object7057
+    6400034: Object7058
+    6400036: tree121
+    6400038: tree122
+    6400040: tree123
+    6400042: tree124
+    6400044: tree125
+    6400046: zhugandao027
+    6400048: zhugandao028
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

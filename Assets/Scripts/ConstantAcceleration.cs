@@ -31,7 +31,7 @@ public class ConstantAcceleration : MonoBehaviour {
             {
                 v2 = v1 + a * Time.deltaTime;
                 s2 = s1 + v1 * Time.deltaTime + (a * Time.deltaTime * Time.deltaTime) / 2.0f;
-                transform.position = new Vector3(s2, 0.0f, 0.0f);
+                transform.position = new Vector3(0.0f, 0.0f, s2);
                 s1 = s2;
                 v1 = v2;
             }
@@ -41,14 +41,14 @@ public class ConstantAcceleration : MonoBehaviour {
             if (v1 > vmax)//匀速直线运动
             {
                 s2 = s1 + vmax * Time.deltaTime;
-                transform.position = new Vector3(s2, 0.0f, 0.0f);
+                transform.position = new Vector3( 0.0f, 0.0f, s2);
                 s1 = s2;
             }
             else//匀加速直线运动
             {
                 v2 = v1 + a * Time.deltaTime;
                 s2 = s1 + v1 * Time.deltaTime + (a * Time.deltaTime * Time.deltaTime) / 2.0f;
-                transform.position = new Vector3(s2, 0.0f, 0.0f);
+                transform.position = new Vector3(0.0f, 0.0f, s2);
                 s1 = s2;
                 v1 = v2;
             }

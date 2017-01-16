@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 16d59a08d28272f41ba6701783b1c034
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: zhugandao26
+    100002: ludeng02
+    100004: Object7035
+    100006: Object7042
+    100008: Object7038
+    100010: Object7039
+    100012: //RootNode
+    100014: tree10
+    100016: zhugandao21
+    100018: Object7040
+    100020: tree119
+    100022: tree120
+    100024: tree39
+    100026: Object7041
+    100028: Object7036
+    100030: Object7037
+    400000: zhugandao26
+    400002: ludeng02
+    400004: Object7035
+    400006: Object7042
+    400008: Object7038
+    400010: Object7039
+    400012: //RootNode
+    400014: tree10
+    400016: zhugandao21
+    400018: Object7040
+    400020: tree119
+    400022: tree120
+    400024: tree39
+    400026: Object7041
+    400028: Object7036
+    400030: Object7037
+    2300000: zhugandao26
+    2300002: ludeng02
+    2300004: Object7035
+    2300006: Object7042
+    2300008: Object7038
+    2300010: Object7039
+    2300012: tree10
+    2300014: zhugandao21
+    2300016: Object7040
+    2300018: tree119
+    2300020: tree120
+    2300022: tree39
+    2300024: Object7041
+    2300026: Object7036
+    2300028: Object7037
+    3300000: zhugandao26
+    3300002: ludeng02
+    3300004: Object7035
+    3300006: Object7042
+    3300008: Object7038
+    3300010: Object7039
+    3300012: tree10
+    3300014: zhugandao21
+    3300016: Object7040
+    3300018: tree119
+    3300020: tree120
+    3300022: tree39
+    3300024: Object7041
+    3300026: Object7036
+    3300028: Object7037
+    4300000: tree10
+    4300002: tree39
+    4300004: zhugandao21
+    4300006: zhugandao26
+    4300008: ludeng02
+    4300010: tree119
+    4300012: tree120
+    4300014: Object7035
+    4300016: Object7036
+    4300018: Object7037
+    4300020: Object7038
+    4300022: Object7039
+    4300024: Object7040
+    4300026: Object7041
+    4300028: Object7042
+    6400000: ludeng02
+    6400002: Object7035
+    6400004: Object7036
+    6400006: Object7037
+    6400008: Object7038
+    6400010: Object7039
+    6400012: Object7040
+    6400014: Object7041
+    6400016: Object7042
+    6400018: tree10
+    6400020: tree119
+    6400022: tree120
+    6400024: tree39
+    6400026: zhugandao21
+    6400028: zhugandao26
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

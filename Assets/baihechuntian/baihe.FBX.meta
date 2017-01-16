@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 8e05bd4011b28f9499bf7d3ae2855e5d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bhjg_017
+    100002: bhjg_008
+    100004: bhjg_009
+    100006: bhjg_010
+    100008: bhjg_004
+    100010: bhjg_020
+    100012: bhjg_012
+    100014: bhlumian_011
+    100016: bhjg_016
+    100018: bhlumian_006
+    100020: bhjg_031
+    100022: bhjg_024
+    100024: bh lou
+    100026: bhjg_027
+    100028: bhjg_022
+    100030: bhlumian_004
+    100032: bhlumian_003
+    100034: bhjg_021
+    100036: bhjg_019
+    100038: bh lou_MeshPart5
+    100040: bhlumian_001
+    100042: bhjg_026
+    100044: bhjg_003
+    100046: bhjg_015
+    100048: bhlumian_005
+    100050: bhjg_028
+    100052: bhlumian_007
+    100054: bhlumian_008
+    100056: bhlumian_009
+    100058: bhjg_023
+    100060: bhjg_001
+    100062: bhlumian_002
+    100064: bh lou_MeshPart4
+    100066: bh lou_MeshPart3
+    100068: bhjg_007
+    100070: bhjg_018
+    100072: bhjg_025
+    100074: bhjg_029
+    100076: bhjg_002
+    100078: bhjg_013
+    100080: bhjg_030
+    100082: bhjg_006
+    100084: bhjg_011
+    100086: bhjg_005
+    100088: bhjg_014
+    100090: bh lou_MeshPart2
+    100092: //RootNode
+    100094: bhlumian_010
+    100096: bh lou_MeshPart0
+    100098: bh lou_MeshPart1
+    100100: bhdimian_001
+    400000: bhjg_017
+    400002: bhjg_008
+    400004: bhjg_009
+    400006: bhjg_010
+    400008: bhjg_004
+    400010: bhjg_020
+    400012: bhjg_012
+    400014: bhlumian_011
+    400016: bhjg_016
+    400018: bhlumian_006
+    400020: bhjg_031
+    400022: bhjg_024
+    400024: bh lou
+    400026: bhjg_027
+    400028: bhjg_022
+    400030: bhlumian_004
+    400032: bhlumian_003
+    400034: bhjg_021
+    400036: bhjg_019
+    400038: bh lou_MeshPart5
+    400040: bhlumian_001
+    400042: bhjg_026
+    400044: bhjg_003
+    400046: bhjg_015
+    400048: bhlumian_005
+    400050: bhjg_028
+    400052: bhlumian_007
+    400054: bhlumian_008
+    400056: bhlumian_009
+    400058: bhjg_023
+    400060: bhjg_001
+    400062: bhlumian_002
+    400064: bh lou_MeshPart4
+    400066: bh lou_MeshPart3
+    400068: bhjg_007
+    400070: bhjg_018
+    400072: bhjg_025
+    400074: bhjg_029
+    400076: bhjg_002
+    400078: bhjg_013
+    400080: bhjg_030
+    400082: bhjg_006
+    400084: bhjg_011
+    400086: bhjg_005
+    400088: bhjg_014
+    400090: bh lou_MeshPart2
+    400092: //RootNode
+    400094: bhlumian_010
+    400096: bh lou_MeshPart0
+    400098: bh lou_MeshPart1
+    400100: bhdimian_001
+    2300000: bhjg_017
+    2300002: bhjg_008
+    2300004: bhjg_009
+    2300006: bhjg_010
+    2300008: bhjg_004
+    2300010: bhjg_020
+    2300012: bhjg_012
+    2300014: bhlumian_011
+    2300016: bhjg_016
+    2300018: bhlumian_006
+    2300020: bhjg_031
+    2300022: bhjg_024
+    2300024: bhjg_027
+    2300026: bhjg_022
+    2300028: bhlumian_004
+    2300030: bhlumian_003
+    2300032: bhjg_021
+    2300034: bhjg_019
+    2300036: bh lou_MeshPart5
+    2300038: bhlumian_001
+    2300040: bhjg_026
+    2300042: bhjg_003
+    2300044: bhjg_015
+    2300046: bhlumian_005
+    2300048: bhjg_028
+    2300050: bhlumian_007
+    2300052: bhlumian_008
+    2300054: bhlumian_009
+    2300056: bhjg_023
+    2300058: bhjg_001
+    2300060: bhlumian_002
+    2300062: bh lou_MeshPart4
+    2300064: bh lou_MeshPart3
+    2300066: bhjg_007
+    2300068: bhjg_018
+    2300070: bhjg_025
+    2300072: bhjg_029
+    2300074: bhjg_002
+    2300076: bhjg_013
+    2300078: bhjg_030
+    2300080: bhjg_006
+    2300082: bhjg_011
+    2300084: bhjg_005
+    2300086: bhjg_014
+    2300088: bh lou_MeshPart2
+    2300090: bhlumian_010
+    2300092: bh lou_MeshPart0
+    2300094: bh lou_MeshPart1
+    2300096: bhdimian_001
+    3300000: bhjg_017
+    3300002: bhjg_008
+    3300004: bhjg_009
+    3300006: bhjg_010
+    3300008: bhjg_004
+    3300010: bhjg_020
+    3300012: bhjg_012
+    3300014: bhlumian_011
+    3300016: bhjg_016
+    3300018: bhlumian_006
+    3300020: bhjg_031
+    3300022: bhjg_024
+    3300024: bhjg_027
+    3300026: bhjg_022
+    3300028: bhlumian_004
+    3300030: bhlumian_003
+    3300032: bhjg_021
+    3300034: bhjg_019
+    3300036: bh lou_MeshPart5
+    3300038: bhlumian_001
+    3300040: bhjg_026
+    3300042: bhjg_003
+    3300044: bhjg_015
+    3300046: bhlumian_005
+    3300048: bhjg_028
+    3300050: bhlumian_007
+    3300052: bhlumian_008
+    3300054: bhlumian_009
+    3300056: bhjg_023
+    3300058: bhjg_001
+    3300060: bhlumian_002
+    3300062: bh lou_MeshPart4
+    3300064: bh lou_MeshPart3
+    3300066: bhjg_007
+    3300068: bhjg_018
+    3300070: bhjg_025
+    3300072: bhjg_029
+    3300074: bhjg_002
+    3300076: bhjg_013
+    3300078: bhjg_030
+    3300080: bhjg_006
+    3300082: bhjg_011
+    3300084: bhjg_005
+    3300086: bhjg_014
+    3300088: bh lou_MeshPart2
+    3300090: bhlumian_010
+    3300092: bh lou_MeshPart0
+    3300094: bh lou_MeshPart1
+    3300096: bhdimian_001
+    4300000: bhjg_001
+    4300002: bhjg_002
+    4300004: bhjg_003
+    4300006: bhjg_004
+    4300008: bhjg_005
+    4300010: bhjg_006
+    4300012: bhjg_007
+    4300014: bhjg_008
+    4300016: bhjg_009
+    4300018: bhjg_010
+    4300020: bhjg_011
+    4300022: bhjg_012
+    4300024: bhjg_013
+    4300026: bhjg_014
+    4300028: bhjg_015
+    4300030: bhjg_016
+    4300032: bhjg_017
+    4300034: bhjg_018
+    4300036: bhjg_019
+    4300038: bhjg_020
+    4300040: bhjg_021
+    4300042: bhjg_022
+    4300044: bhjg_023
+    4300046: bhjg_024
+    4300048: bhjg_025
+    4300050: bhjg_026
+    4300052: bhjg_027
+    4300054: bhjg_028
+    4300056: bhjg_029
+    4300058: bhjg_030
+    4300060: bhjg_031
+    4300062: bhlumian_001
+    4300064: bhlumian_002
+    4300066: bhlumian_003
+    4300068: bhlumian_004
+    4300070: bhlumian_005
+    4300072: bhlumian_006
+    4300074: bhlumian_007
+    4300076: bhlumian_008
+    4300078: bhlumian_009
+    4300080: bhlumian_010
+    4300082: bhlumian_011
+    4300084: bh lou_MeshPart0
+    4300086: bh lou_MeshPart1
+    4300088: bh lou_MeshPart2
+    4300090: bh lou_MeshPart3
+    4300092: bh lou_MeshPart4
+    4300094: bh lou_MeshPart5
+    4300096: bhdimian_001
+    7400002: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
